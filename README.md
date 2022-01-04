@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isoke19
-- 👀 I’m interested in ... sustainability and gaming
+- 👀 I’m interested in ... fashion, sustainability and gaming
 - 🌱 I’m currently learning ... C++, python, SQL, Java and more.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
