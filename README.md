@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isoke19
 - 👀 I’m interested in fashion, sustainability and gaming
 - 🌱 I’m currently learning C++, python, SQL, Java and more.
-- 💞️ I’m looking to collaborate on big data and front-end development
+- 💞️ I’m working on data science, AI and front-end development projects
 
 
 <!---
