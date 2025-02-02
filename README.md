@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @isoke19
-- 👀 I’m interested in fashion, AI, Robotics, and gaming.
+- 👀 I’m interested in fashion.
 - 🌱 I’m currently learning python, SQL and Java
-- 💞️ I’m working on data science, AI and Web 3 programing projects
-
+- 💞️ I’m working on data science
 
 <!---
 isoke19/isoke19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
