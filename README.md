@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isoke19
 - 👀 I’m interested in fashion.
-- 🌱 I’m currently learning python, SQL and Java
+- 🌱 I am learning python/SQL
 - 💞️ I’m working on data science
 
 <!---
